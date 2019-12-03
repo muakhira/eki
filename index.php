@@ -1,4 +1,4 @@
 <?php
-echo "Muakhira" <br>
-echo "216280043"
+echo "Muakhira";
+echo "216280043";
 ?>
